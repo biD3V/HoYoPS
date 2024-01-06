@@ -7,6 +7,8 @@ Allows a certain space train anime game to connect to private servers
 4. Save your changes and now when you open the game it should connect to the selected server.
 ## Plans
 I hope to add real preferences as well as the other hoyo games in the future.
+
+---
 Follow me on [Twitter](https://twitter.com/biD3V)
 
 Donations: [ko-fi](https://ko-fi.com/bi_soy_sauce)
